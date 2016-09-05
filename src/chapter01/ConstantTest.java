@@ -4,7 +4,6 @@ public class ConstantTest {
 
 	public static void main(String[] args) {
 		final int CONST_NUMBER = 10;
-		final double PI =3.1418;
 		int number = 10;
 		
 		System.out.println(number);
